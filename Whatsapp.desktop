@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Whatsapp
+Comment=Whatsapp client made with PyQt5 by Elagoht.
+Exec=whatsapp-qt5
+Icon=/usr/share/Whatsapp-Qt5/icon.png
+Terminal=false
+Type=Application
+Categories=Network
